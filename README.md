@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 I am Bereket
+**Welcome to my GitHub profile!**  
+I am a software engineer specializing in full stack development.
+
+- 🔭 I’m working on a new platform using MERN
+- 💬 Ask me about web development, Node.js, React Js, Ruby, PHP and more!
+- 📫 How to reach me: bereket.negashu@gmail.com
 
 <!--
 **BekaB/BekaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
